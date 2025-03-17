@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository is no longer actively maintained due to a busy schedule.  
+Feel free to explore [other great samples](https://github.com/shadcn-ui/ui/discussions/3214) or fork and customize it as needed.
+
 # Full Calendar for shadcn/ui
 
 - Keyboard shortcuts
